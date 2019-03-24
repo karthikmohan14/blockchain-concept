@@ -1,0 +1,28 @@
+{
+  "name": "blockchain",
+  "description": "A web-based demonstration of blockchain concepts.",
+  "author": {
+    "name": ""
+  },
+  "version": "1.0",
+  "keywords": [
+    "blockchain",
+    "bitcoin"
+  ],
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {},
+  "license": "",
+  "dependencies": {
+    "async": "^1.4.2",
+    "express": "^4.13.4",
+    "serve-favicon": "^2.3.0",
+    "morgan": "^1.7.0",
+    "cookie-parser": "^1.4.3",
+    "body-parser": "~1.15.2",
+    "debug": ">=2.6.9",
+    "jade": "~1.11.0",
+    "i18n": "0.8.3"
+  }
+}
